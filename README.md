@@ -73,4 +73,4 @@ Lower Risk → Cointegration pairs (Long NVDA, Short AAPL when spread is wide).
 
 ## Final Product
 
-This was actually my class project with 2 of my friends and [here's](https://github.com/trinitarn/Equity_Research_NVDA_AAPL/blob/main/PPT%20Analyzing%20Stocks.pdf) the final presentation.
+This was actually my class project with 2 of my friends and [here's](https://github.com/trinitarn/Equity_Research_NVDA_AAPL/blob/main/PPT%20Analyzing%20Stocks.pdf) the final presentation, and [this's](https://github.com/trinitarn/Equity_Research_NVDA_AAPL/blob/main/Stocks.ipynb) the code.
