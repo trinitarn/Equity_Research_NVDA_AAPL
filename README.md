@@ -22,6 +22,9 @@ Source: Yahoo Finance historical data for AAPL and NVDA (daily adjusted close pr
 ## 📈 Insight Summary
 These are the conclusion based on each technical analysis's results found:
 
+#### 🔸 MA and RSI
+![MA and RSI](https://github.com/trinitarn/Equity_Research_NVDA_AAPL/blob/main/First%20Photo.jpg)
+
 ### 1. Moving Average (MA) Strategy — MA(20,100)
 NVDA: ~+195% return in backtesting — very strong uptrend signal.
 
@@ -35,6 +38,9 @@ NVDA: ~+34% return — momentum plays work well.
 AAPL: ~+12.4% — still positive but weaker.
 
 Verdict: Buy NVDA for momentum trades; AAPL less responsive.
+
+#### 🔸 Bollinger Bands and Cointegration
+![Bollinger Bands and Cointegration](https://github.com/trinitarn/Equity_Research_NVDA_AAPL/blob/main/Second%20Photo.jpg)
 
 ### 3. Bollinger Bands (20,2)
 Combined test (both stocks): ~+10.59% return.
@@ -64,3 +70,7 @@ Best Combined Approach:
 Aggressive Growth → NVDA standalone trades (MA + RSI).
 
 Lower Risk → Cointegration pairs (Long NVDA, Short AAPL when spread is wide).
+
+## Final Product
+
+This was actually my class project with 2 of my friends and [here's](https://github.com/trinitarn/Equity_Research_NVDA_AAPL/blob/main/PPT%20Analyzing%20Stocks.pdf) the final presentation.
